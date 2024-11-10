@@ -8,6 +8,8 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-archives'
   gem 'webrick'
+  gem 'jekyll-toc'
+  gem 'faraday-retry'
 end
 
 group :windows do

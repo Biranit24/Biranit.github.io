@@ -267,7 +267,7 @@ plugins:
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-tabs  
+  - jekyll-tabs
   - jekyll-twitter-plugin
   - jemoji
 
@@ -319,8 +319,12 @@ scholar:
   style: apa
   locale: en
 
+#biranit
+  bibliography: assets/bibliography.bib
+
+
   source: /_bibliography/
-  bibliography: papers.bib
+  #biranit bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.

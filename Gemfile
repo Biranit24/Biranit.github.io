@@ -10,6 +10,8 @@ group :jekyll_plugins do
   gem 'webrick'
   gem 'jekyll-toc'
   gem 'faraday-retry'
+  gem 'jekyll-scholar'
+
 end
 
 group :windows do

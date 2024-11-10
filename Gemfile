@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'faraday-retry'
+    gem 'jekyll-toc'
     gem 'observer'
     gem 'wdm','>= 0.1.0'
     gem 'classifier-reborn'
@@ -17,7 +19,6 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
-    gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'

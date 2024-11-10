@@ -11,6 +11,8 @@ group :jekyll_plugins do
   gem 'jekyll-toc'
   gem 'faraday-retry'
   gem 'jekyll-scholar'
+  gem 'jekyll-toc'
+
 
 end
 

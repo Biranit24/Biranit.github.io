@@ -364,7 +364,6 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-scholar
   jekyll-sitemap
-  jekyll-toc
   jemoji
   wdm (>= 0.1.0)
   webrick
